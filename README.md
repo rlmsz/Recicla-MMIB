@@ -8,9 +8,9 @@
   - Informações relevantes a área 
   - Dicas de reciclagem 
 # Telas ou imagens do funcionamento do produto
-![Screenshot](screenshot.png)
-![Screenshot](screenshot.png)
-![Screenshot](screenshot.png)
+![Screenshot](WhatsApp Image 2023-04-18 at 12.46.07 (1).jpeg)
+![Screenshot](WhatsApp Image 2023-04-18 at 12.46.07 (1).jpeg)
+![Screenshot](WhatsApp Image 2023-04-18 at 12.46.07 (1).jpeg)
 
 # Integrantes do projeto, com os respectivos contatos.
   - Rannery Carlos Mota Vieira
