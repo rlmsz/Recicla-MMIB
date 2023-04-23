@@ -8,6 +8,10 @@
   - Informações relevantes a área 
   - Dicas de reciclagem 
 # Telas ou imagens do funcionamento do produto
+![Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
+
 # Integrantes do projeto, com os respectivos contatos.
   - Rannery Carlos Mota Vieira
   - Reryson Augusto Farinha
