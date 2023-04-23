@@ -9,8 +9,8 @@
   - Dicas de reciclagem 
 # Telas ou imagens do funcionamento do produto
 ![Screenshot](https://github.com/rlmsz/Recicla-MMIB/blob/3dcaa1bb27e0c180a5e50eb019a6142bdc6a4a81/WhatsApp%20Image%202023-04-18%20at%2012.46.07%20(1).jpeg)
-![Screenshot](WhatsApp Image 2023-04-18 at 12.46.07 (1).jpeg)
-![Screenshot](WhatsApp Image 2023-04-18 at 12.46.07 (1).jpeg)
+![Screenshot](https://github.com/rlmsz/Recicla-MMIB/blob/3dcaa1bb27e0c180a5e50eb019a6142bdc6a4a81/WhatsApp%20Image%202023-04-18%20at%2012.46.07%20(2).jpeg)
+![Screenshot](https://github.com/rlmsz/Recicla-MMIB/blob/3dcaa1bb27e0c180a5e50eb019a6142bdc6a4a81/WhatsApp%20Image%202023-04-18%20at%2012.46.07%20(3).jpeg)
 
 # Integrantes do projeto, com os respectivos contatos.
   - Rannery Carlos Mota Vieira
